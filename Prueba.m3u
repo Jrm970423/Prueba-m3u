@@ -11,6 +11,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://stmv1.cnarlatam.com/astronet/astronet/playlist.m3u8
 #EXTINF:-1, TechScience
 https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
+#EXTINF:-1, Aventuras TV
+https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
 #EXTINF:-1, ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1, Milenio Televisión
